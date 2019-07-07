@@ -17,10 +17,10 @@ python server.py
 ```
 ## 功能演示
 ### 登录
-![image](https://github.com/tjucch/webFrame/tree/master/images/login.gif)
+![](https://github.com/tjucch/webFrame/tree/master/images/login.gif)
 ### 添加weibo或评论
-![image](https://github.com/tjucch/webFrame/tree/master/images/add.gif)
+![](https://github.com/tjucch/webFrame/blob/master/images/add.gif)
 ### 删除weibo或评论
-![image](https://github.com/tjucch/webFrame/tree/master/images/delete.gif)
+![](https://github.com/tjucch/webFrame/tree/master/images/delete.gif)
 ### 修改weibo
-![image](https://github.com/tjucch/webFrame/tree/master/images/update.gif)
+![](https://github.com/tjucch/webFrame/tree/master/images/update.gif)
